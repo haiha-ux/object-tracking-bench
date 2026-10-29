@@ -1,0 +1,218 @@
+{
+ "yolo11n_bytetrack_pt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 20.901,
+   "fps": 28.71
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 44.203,
+   "fps": 23.75
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 26.449,
+   "fps": 31.65
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 21.99,
+   "fps": 23.87
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 21.454,
+   "fps": 30.48
+  }
+ },
+ "yolo11n_botsort_pt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 26.931,
+   "fps": 22.28
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 55.246,
+   "fps": 19.01
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 38.006,
+   "fps": 22.02
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 26.435,
+   "fps": 19.86
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 43.063,
+   "fps": 15.19
+  }
+ },
+ "yolo11n_bytetrack_trt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 17.91,
+   "fps": 33.5
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 39.422,
+   "fps": 26.63
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 24.984,
+   "fps": 33.5
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 16.971,
+   "fps": 30.93
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 21.552,
+   "fps": 30.35
+  }
+ },
+ "yolo11n_botsort_trt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 26.116,
+   "fps": 22.97
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 58.477,
+   "fps": 17.96
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 37.057,
+   "fps": 22.59
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 22.39,
+   "fps": 23.45
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 29.451,
+   "fps": 22.21
+  }
+ },
+ "yolo11s_bytetrack_pt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 31.929,
+   "fps": 18.79
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 55.228,
+   "fps": 19.01
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 41.16,
+   "fps": 20.34
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 24.837,
+   "fps": 21.14
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 28.611,
+   "fps": 22.86
+  }
+ },
+ "yolo11s_botsort_pt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 40.877,
+   "fps": 14.68
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 74.324,
+   "fps": 14.13
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 56.269,
+   "fps": 14.88
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 36.366,
+   "fps": 14.44
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 45.524,
+   "fps": 14.37
+  }
+ },
+ "yolo11s_bytetrack_trt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 24.526,
+   "fps": 24.46
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 49.499,
+   "fps": 21.21
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 32.712,
+   "fps": 25.59
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 24.434,
+   "fps": 21.49
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 28.902,
+   "fps": 22.63
+  }
+ },
+ "yolo11s_botsort_trt": {
+  "MOT17-02": {
+   "frames": 600,
+   "seconds": 35.985,
+   "fps": 16.67
+  },
+  "MOT17-04": {
+   "frames": 1050,
+   "seconds": 60.961,
+   "fps": 17.22
+  },
+  "MOT17-05": {
+   "frames": 837,
+   "seconds": 42.725,
+   "fps": 19.59
+  },
+  "MOT17-09": {
+   "frames": 525,
+   "seconds": 30.736,
+   "fps": 17.08
+  },
+  "MOT17-10": {
+   "frames": 654,
+   "seconds": 39.8,
+   "fps": 16.43
+  }
+ }
+}

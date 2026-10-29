@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+weights/
+*.mp4
+*.avi
+*.engine
+*.onnx
+*.pt
+results/tracks/
+results/te_trackers/

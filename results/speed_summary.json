@@ -1,0 +1,21 @@
+{
+ "tracker": "yolo11s_bytetrack_pt",
+ "MOT17-02": {
+  "tracks_ge_1s": 76,
+  "median_mean_px_s": 28.3,
+  "p90_mean_px_s": 211.5,
+  "max_px_s": 1753.8
+ },
+ "MOT17-04": {
+  "tracks_ge_1s": 128,
+  "median_mean_px_s": 35.2,
+  "p90_mean_px_s": 73.3,
+  "max_px_s": 447.1
+ },
+ "MOT17-09": {
+  "tracks_ge_1s": 41,
+  "median_mean_px_s": 92.0,
+  "p90_mean_px_s": 302.6,
+  "max_px_s": 1309.9
+ }
+}
